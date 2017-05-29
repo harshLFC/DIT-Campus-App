@@ -3,6 +3,7 @@
 /*
  * All database connection variables
  * --- CHANGE THESE TO MATCH YOUR DATABASE ---
+ ----Some extra changes just for fun!----
  */
 
 define("DB_USER", "root"); // db user
