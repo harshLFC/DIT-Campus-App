@@ -1,4 +1,4 @@
-# my-mobile-app
+# my-mobile-app![](https://user-images.githubusercontent.com/25711956/30964568-ca270d98-a449-11e7-8959-6c1780b9ff36.jpg)
 
 A sample project I worked upon using technologies such as HTML5, JQuery, JQuery-mobile, Php, and mySQL.
 
@@ -14,4 +14,6 @@ Explored JQuery-mobile Ui interfaces
 
 
 ![](https://user-images.githubusercontent.com/25711956/30964251-77997e22-a448-11e7-95a8-3ac4ad2a553d.jpg)
+
+
 
